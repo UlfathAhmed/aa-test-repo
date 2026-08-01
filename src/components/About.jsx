@@ -12,7 +12,7 @@ const About = () => {
                     <h5 className='text-2xl font-semibold text-slate-400 gap-2 font-worksansnormal'>About</h5>
 
                     <h1 className='lg:text-6xl text-5xl font-worksansbold  font-bold pb-10'>
-                        Who We Are?
+                        Who We Areeeeeeeee
                     </h1>
                     <div className='flex flex-col-reverse lg:flex-row  mt-6 md '>
                         <div className=' basis-2/3 lg:pr-2 pr-0 flex-1 flex-col '>
